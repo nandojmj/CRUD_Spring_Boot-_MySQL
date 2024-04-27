@@ -1,0 +1,5 @@
+com\example\crudrapido\service\StudentService.class
+com\example\crudrapido\CrudrapidoApplication.class
+com\example\crudrapido\repository\StudentRepository.class
+com\example\crudrapido\controller\StudentController.class
+com\example\crudrapido\entity\Studend.class
